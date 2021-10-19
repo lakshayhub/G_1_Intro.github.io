@@ -1,0 +1,32 @@
+
+#AA{
+    margin: auto;
+    background-color: brown;
+    color: wheat;
+    width: 82%;
+    height: 600px;
+   margin-top: 55px;
+   border-radius: 20px;
+   box-shadow: 0 0 20px black;
+}
+#aab{
+    float: left;
+    width: 40%;
+    border-radius: 20px;
+}
+#ab{
+    float: right;
+    width: 60%;
+}
+body{
+    background: linear-gradient(45deg, wheat, orange);
+}
+img{
+    border-radius: 20px;
+    padding: 20px;
+}
+button{
+    background: wheat;
+    width: 120px;
+    height: 30px;
+}
